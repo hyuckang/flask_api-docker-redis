@@ -1,2 +1,3 @@
-# flask_api-docker-redis
-flask api using docker and redis
+# flask-redis_api
+flask-redis api using docker
+
